@@ -1,10 +1,18 @@
+# React-OmniStack Frontend
+
+This is a frontend training project with the technologies NodeJS+ReactJS  provided by the OminiStack school.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Useful commands 
 - yarn create-app frontend
 - yarn start
 
+## Useful links
+- [Video classes](https://rocketseat.com.br/week-6/aulas)
+  - [Video 3](https://www.youtube.com/watch?v=ua9nKS3XYpw)
 
+------
 
 
 ## Available Scripts
